@@ -1,0 +1,15 @@
+img {
+  width: 150px;
+  border-radius: 100px;
+}
+p.username {
+  font-weight: bold;
+}
+p.poem {
+  font-style: italic;
+}
+dd.award {
+  background-color: aqua;
+  background-size: 20% 20%;
+  color: blueviolet;
+}
